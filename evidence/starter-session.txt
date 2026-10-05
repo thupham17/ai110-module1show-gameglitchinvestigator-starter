@@ -1,0 +1,10 @@
+STARTER GAME SESSION (Streamlit AppTest, before fixes)
+Secret set to 50 for repeatable reproduction.
+Initial display: Guess a number between 1 and 100. Attempts left: 7
+Guess 60 / secret 50: 📈 Go HIGHER!
+Guess 3.9: history = [60, 3]
+After 7 guesses: Guess a number between 1 and 100. Attempts left: 1
+Game over: Out of attempts! The secret was 50. Score: -25
+New Game status: lost
+New Game error: Game over. Start a new game to try again.
+Exceptions: 0

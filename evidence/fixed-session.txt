@@ -1,0 +1,14 @@
+POST-FIX BROWSER SESSION (http://localhost:8501/)
+Clicked New Game on Normal difficulty.
+Initial display: Guess a number between 1 and 100. Attempts left: 8
+Developer Debug Info: Secret: 37; Attempts: 0; Score: 0
+Submitted 50: 📉 Go LOWER!
+Display: Attempts left: 7; Round score: -5
+Submitted 37: 🎉 Correct! The secret was 37. Final score: 85.
+Display: Attempts left: 6; Round score: 85; Best winning score: 85
+Submit Guess button disabled after winning.
+Guess history:
+Attempt | Guess | Result   | Score
+1       | 50    | Too High | -5
+2       | 37    | Win      | 85
+Screenshot: evidence/winning-game.png
